@@ -24,3 +24,7 @@ This course has the following software requirements:<br/>
 
 * [Chatbot Building and Marketing with Chatfuel-Without Coding [Video]](https://www.packtpub.com/web-development/chatbot-building-and-marketing-chatfuel-without-coding-video?utm_source=github&utm_medium=repository&utm_campaign=9781789951837)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781789951608">https://packt.link/free-ebook/9781789951608 </a> </p>
